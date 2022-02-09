@@ -14,4 +14,9 @@ export default {};
   height: 300px;
   background-color: cyan;
 }
+.box2 {
+  width: 100px;
+  height: 300px;
+  background-color: cyan;
+}
 </style>
